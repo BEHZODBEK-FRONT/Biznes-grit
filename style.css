@@ -9,7 +9,6 @@
 .container {
   max-width: 1200px;
   padding: 0 15px;
-  border: 3px solid red;
   margin: 0 auto;
   min-height: 50px;
 }
@@ -44,7 +43,6 @@
   gap: 30px;
 }
 .header-card {
-  border: 2px solid blue;
   max-width: 370px;
   padding: 30px 30px 60px;
   display: flex;
@@ -70,7 +68,6 @@
   margin-top: 60px;
 }
 .tekin-card {
-  border: 2px solid blue;
   max-width: 270px;
   padding: 30px 30px 60px;
   display: flex;
@@ -98,7 +95,6 @@
   display: flex;
   align-items: center;
   max-width: 570px;
-  border: 3px solid blue;
   padding: 60px;
   gap: 40px;
 }
